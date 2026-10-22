@@ -6,7 +6,7 @@ The system combines four kinds of data recorded for every injection cycle (therm
 
 ## Table of contents
 
-- [Contributors](#contributors)
+- [Contributors](#contributors) 
 - [Repository layout](#repository-layout)
 - [Data](#data)
 - [How it works](#how-it-works)
