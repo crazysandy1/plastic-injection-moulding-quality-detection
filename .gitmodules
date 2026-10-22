@@ -1,9 +1,9 @@
 [submodule "thermal-cnn"]
-	path = thermal-cnn
+	path = thermal-cnn-model4
 	url = https://github.com/LelouchelawlietLIEBERT/thermal-cnn
 [submodule "mini-project-algo"]
-	path = mini-project-algo
+	path = tcn-model2
 	url = https://github.com/DarshanCHMSR/mini-project-algo
 [submodule "sjs-project"]
-	path = sjs-project
+	path = computervision-model3
 	url = https://github.com/crazysandy1/minipro

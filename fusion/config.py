@@ -10,7 +10,7 @@ from pathlib import Path
 # =========================================================================
 ROOT = Path(__file__).parent.parent
 DATA_DIR       = ROOT / "data"
-PARQUET_PATH   = ROOT / "thermal-cnn" / "dataset_V2.parquet"
+PARQUET_PATH   = ROOT / "thermal-cnn-model4" / "dataset_V2.parquet"
 THERMAL_CSV_DIR = DATA_DIR / "Thermographie"
 CV_IMAGE_DIR   = DATA_DIR / "Rohbilder"
 ARTIFACTS_DIR  = ROOT / "artifacts"

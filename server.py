@@ -27,7 +27,7 @@ from flask import Flask, render_template, request, jsonify
 warnings.filterwarnings("ignore")
 
 ROOT = Path(__file__).parent
-PARQUET = ROOT / "thermal-cnn" / "dataset_V2.parquet"
+PARQUET = ROOT / "thermal-cnn-model4" / "dataset_V2.parquet"
 THERMAL_DIR = ROOT / "data" / "Thermographie"
 CV_DIR = ROOT / "data" / "Rohbilder"
 
